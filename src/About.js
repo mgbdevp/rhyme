@@ -2,7 +2,7 @@ function About() {
   return (
     <div className ="App">
       <div className="About">
-        <p style={{ marginBottom: 16 }}>Made by Magabee Using React And Spotify API</p>
+        <p style={{ marginBottom: 16 }}>Made by Leet Using React And Spotify API</p>
         <p><a href="#">Website</a></p>
         <p><a href="#">Github</a></p>
       </div>
