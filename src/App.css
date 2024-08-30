@@ -50,12 +50,8 @@ input{
   border: none;
   font-family: inherit;
   outline: none;
-  background-color: #C9DBB2DD;
+  background-color: #DDD;
   margin-bottom: 1rem;
-}
-
-input:focus{
-  background-color: #C9DBB2;
 }
 
 a{
